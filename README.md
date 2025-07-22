@@ -12,7 +12,7 @@ A clean, minimal stopwatch web app with light/dark theme toggle.
 - Light/Dark mode toggle with local storage support
 
 ## 🌐 Live Demo
-[View Stopwatch App](https://RB1507.github.io/stopwatch-app/)
+[View Stopwatch App](https://rb1507.github.io/PRODIGY_WD_02/)
 
 ## 📁 Technologies
 - HTML
